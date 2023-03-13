@@ -1,0 +1,19 @@
+{
+  "name": "acquaintancenodejs",
+  "version": "1.0.0",
+  "description": "netology homework introduction to Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PavlyukovVladimir/acquaintanceNodeJS.git"
+  },
+  "author": "Vladimir P",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PavlyukovVladimir/acquaintanceNodeJS/issues"
+  },
+  "homepage": "https://github.com/PavlyukovVladimir/acquaintanceNodeJS#readme"
+}
